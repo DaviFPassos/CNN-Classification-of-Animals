@@ -1,0 +1,33 @@
+# Virtual Environments (Ambientes Virtuais)
+venv_cnn/
+venv/
+venv_*/
+env/
+ENV/
+.venv/
+
+
+# Security and local settings
+.env
+.env.local
+settings
+configuracoes_locais.py
+
+# Heavy files
+PetImages/
+kagglecatsanddogs_5340.zip
+
+# Extra Docs and PDFs from dataset
+CDLA-Permissive-2.0.pdf
+readme[1].txt
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
+# Byte-compiled / Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
