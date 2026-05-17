@@ -2,10 +2,6 @@ For information see http://research.microsoft.com/en-us/projects/asirra/corpus.a
 
 Contact: jelson
 
-For information see http://research.microsoft.com/en-us/projects/asirra/corpus.aspx
-
-Contact: jelson
-
 # Cat vs. Dog CNN Classifier with Custom Failure-Safe Pipeline
 
 This repository contains a **Convolutional Neural Network (CNN)** built from scratch using **TensorFlow/Keras** to perform binary classification between cats (`0`) and dogs (`1`). 
